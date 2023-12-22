@@ -1,0 +1,48 @@
+table, td, th{
+    border: 1px solid black;
+    padding: 5px;
+    margin: auto;
+    border-collapse: collapse;
+   
+}
+
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+td, th{
+    padding: 15px;
+}
+
+#yell{
+    background-color: rgb(234, 255, 0);
+}
+#yell:hover{
+    transition: 0.80s;
+    opacity: 0.8;
+    background-color: yellowgreen;
+}
+
+#or{
+    color: rgb(68, 45, 3);
+    background-color: rgb(255, 183, 51);
+}
+
+#eig{
+    text-align: center;
+    background-color: antiquewhite;
+    
+}
+#n{
+    text-align: center;
+    background-color: rgb(13, 182, 13);
+}
+
+#gg{
+    text-align: center;
+    font-size: 30px;
+}
+
+#g{
+    background-color: rgb(13, 182, 13);
+}
